@@ -21,6 +21,7 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
+    "mongoose": "^7.4.1",
     "react-bootstrap": "^2.8.0"
   }
 }
